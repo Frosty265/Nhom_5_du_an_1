@@ -1,4 +1,5 @@
 <?php
+#HongHoa
 /**
  * Mở kết nối đến CSDL sử dụng PDO
  */
